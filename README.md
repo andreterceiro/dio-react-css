@@ -42,3 +42,5 @@ If you wanna study more about fkexbox, please review [this class](https://web.di
 They are modifiers like ":hover".
 
 If you change the cursor CSS property of an element to "pointer", the pointer will be a hand.
+
+Some CSS pseudo classes are specifically related to some elements, like "focus" is related to an input element.
