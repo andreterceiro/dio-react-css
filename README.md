@@ -21,3 +21,5 @@ Definition:
 # Flexbox axises
 
 ![flexbox axises](images/flexbox-axises.png)
+
+![flexbox axises 2](images/flexbox-axises-2.png)
