@@ -23,3 +23,7 @@ Definition:
 ![flexbox axises](images/flexbox-axises.png)
 
 ![flexbox axises 2](images/flexbox-axises-2.png)
+
+Flexbox transversal axis:
+
+![flexbox transversal axis](images/flexbox-transversal-axis-2.png)
