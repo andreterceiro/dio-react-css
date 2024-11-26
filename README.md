@@ -40,3 +40,5 @@ If you wanna study more about fkexbox, please review [this class](https://web.di
 # Pseudo CSS classes
 
 They are modifiers like ":hover".
+
+If you change the cursor CSS property of an element to "pointer", the pointer will be a hand.
