@@ -29,3 +29,7 @@ Flexbox main axis:
 Flexbox transversal axis:
 
 ![flexbox transversal axis](images/flexbox-transversal-axis.png)
+
+In the next image teacher used "flex-direction: column" in CSS to have the boxed elements in the vertical axis. Without this modification, the box elements would be in the horizontal axis.
+
+![flex-direction](images/flex-direction.png)
