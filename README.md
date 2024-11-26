@@ -35,3 +35,8 @@ In the next image teacher used "flex-direction: column" in CSS to have the boxed
 ![flex-direction](images/flex-direction.png)
 
 If you wanna study more about fkexbox, please review [this class](https://web.dio.me/course/estilizando-paginas-com-css/learning/1bd2ecf0-2b5c-403a-aea2-a48d28ea272a?back=/track/formacao-react-developer&tab=undefined&moduleId=undefined).
+
+
+# Pseudo CSS classes
+
+They are modifiers like ":hover".
