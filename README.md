@@ -46,3 +46,7 @@ If you change the cursor CSS property of an element to "pointer", the pointer wi
 Some CSS pseudo classes are specifically related to some elements, like "focus" is related to an input element.
 
 "nth-child(1)" (1 is an example) is an example of another pseudo CSS modifier.
+
+Remember that you can use more than one CSS selector in the same time, see:
+
+![using more than 1 CSS selector](images/more-than-1-css-selector.png)
