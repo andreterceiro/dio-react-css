@@ -22,8 +22,10 @@ Definition:
 
 ![flexbox axises](images/flexbox-axises.png)
 
-![flexbox axises 2](images/flexbox-axises-2.png)
+Flexbox main axis:
+
+![flexbox axises 2](images/flexbox-main-axis.png)
 
 Flexbox transversal axis:
 
-![flexbox transversal axis](images/flexbox-transversal-axis-2.png)
+![flexbox transversal axis](images/flexbox-transversal-axis.png)
