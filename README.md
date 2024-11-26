@@ -50,3 +50,12 @@ Some CSS pseudo classes are specifically related to some elements, like "focus" 
 Remember that you can use more than one CSS selector in the same time, see:
 
 ![using more than 1 CSS selector](images/more-than-1-css-selector.png)
+
+
+# Media query
+
+Media query and media type definitions
+
+![media query definition](images/media-queries.png)
+
+![media type definition](images/media-types.png)
